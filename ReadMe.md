@@ -1,7 +1,7 @@
 # DesignSpark-Mechanical
 
 With DesignSpark Mechanics, you can create your designs, drawings, 
-prototypes and reverse engineer any physical object with addible notes, dimensions, geometric tolerances.     
+prototypes and reverse engineer any physical object with addible notes, dimensions and geometric tolerances.     
 
 DesignSpark Mechanical is a free mechanical CAD software with ease of use and learnability
 
